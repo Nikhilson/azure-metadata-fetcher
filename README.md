@@ -12,3 +12,5 @@ This script fetches metadata from an **Azure Virtual Machine** and returns it in
 ### Fetch all metadata:
 ```sh
 bash metadata_azure.sh
+
+
